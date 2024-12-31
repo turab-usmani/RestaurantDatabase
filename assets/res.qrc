@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>flat-lay-fish-chips-with-sauce-light-box - Copy.jpg</file>
+    <file>top-view-fish-chips-with-variety-sauces-copy-space.jpg</file>
+    <file>75d763504b379a3f55235f268e37165d.jpg</file>
+    <file>flat-lay-fish-chips-with-sauce-light-box.jpg</file>
+    <file>Fast-Food-and-Junk-Food-4-1.jpg</file>
+    <file>flat-lay-fish-chips-with-sauce-light-box.jpg</file>
+    <file>fast-food-dish-top-view-meat-burger-potato-chips-wedges-take-away-composition-french-fries-hambu_157927-24867.avif</file>
+    <file>kentucky-fried-chicken-copycat-4-of-6-edited.jpg</file>
+    <file>foodiesfeed.com_cheeseburger.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Items/75d763504b379a3f55235fd268e37165d.jpg</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>Items/75d763504b379a3f55235f268e37165d.jpg</file>
+    <file>Items/75d7d63504b379a3f55235f268e37165d.jpg</file>
+    <file>Items/75d763504b379a3f55235f268e37165d.jpg</file>
+    <file>Items/75d763504b379a3f55235fd268e37165d.jpg</file>
+    <file>Items/75d763504b379ta3f55235f268e37165d.jpg</file>
+  </qresource>
+</RCC>
